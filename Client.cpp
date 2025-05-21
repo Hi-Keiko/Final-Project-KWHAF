@@ -34,6 +34,9 @@ int main() {
         sleep(1);
     }
 
+    int x, num;
+    x = num + 2;
+
     close(sock);
     return 0;
 }
