@@ -1,8 +1,8 @@
 #include <iostream>
 #include <winsock2.h>
-#include "../anomaly_detector.h"
-#include "../data_persistence.h"
-#include "../server_utils.h"
+#include "anomaly_detector.h"
+#include "data_persistence.h"
+#include "server_utils.h"
 
 #pragma comment(lib,"ws2_32.lib")
 
