@@ -35,7 +35,7 @@ int main() {
     }
 
     int x, num;
-    x = num + 2;
+    x = num + 5;
 
     close(sock);
     return 0;
