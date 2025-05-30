@@ -1,0 +1,24 @@
+0,70
+1,75
+2,80
+3,85
+4,90
+5,110  // Takikardia (contoh data abnormal)
+6,55   // Bradikardia (contoh data abnormal)
+7,70
+8,72
+9,78
+10,82
+11,95
+12,62
+13,99
+14,105 // Takikardia
+15,58  // Bradikardia
+16,70
+17,73
+18,88
+19,92
+20,60  // Normal (batas bawah)
+21,100 // Normal (batas atas)
+22,63
+23,97

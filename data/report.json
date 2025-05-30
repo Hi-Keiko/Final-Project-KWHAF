@@ -1,0 +1,20 @@
+{
+  "timestamp": "05:00:00",
+  "bpm": 110  // Takikardia (contoh data abnormal),
+  "status": "takikardia"
+},
+{
+  "timestamp": "06:00:00",
+  "bpm": 55   // Bradikardia (contoh data abnormal),
+  "status": "bradikardia"
+},
+{
+  "timestamp": "14:00:00",
+  "bpm": 105 // Takikardia,
+  "status": "takikardia"
+},
+{
+  "timestamp": "15:00:00",
+  "bpm": 58  // Bradikardia,
+  "status": "bradikardia"
+},

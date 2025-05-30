@@ -1,0 +1,125 @@
+{
+  "report_title": "LAPORAN REKAMAN DATA BPM DALAM SEHARI",
+  "data": [
+    {
+      "timestamp": "06:00:00",
+      "bpm": 55,
+      "status": "bradikardia"
+    },
+    {
+      "timestamp": "15:00:00",
+      "bpm": 58,
+      "status": "bradikardia"
+    },
+    {
+      "timestamp": "20:00:00",
+      "bpm": 60,
+      "status": "normal"
+    },
+    {
+      "timestamp": "12:00:00",
+      "bpm": 62,
+      "status": "normal"
+    },
+    {
+      "timestamp": "22:00:00",
+      "bpm": 63,
+      "status": "normal"
+    },
+    {
+      "timestamp": "00:00:00",
+      "bpm": 70,
+      "status": "normal"
+    },
+    {
+      "timestamp": "16:00:00",
+      "bpm": 70,
+      "status": "normal"
+    },
+    {
+      "timestamp": "07:00:00",
+      "bpm": 70,
+      "status": "normal"
+    },
+    {
+      "timestamp": "08:00:00",
+      "bpm": 72,
+      "status": "normal"
+    },
+    {
+      "timestamp": "17:00:00",
+      "bpm": 73,
+      "status": "normal"
+    },
+    {
+      "timestamp": "01:00:00",
+      "bpm": 75,
+      "status": "normal"
+    },
+    {
+      "timestamp": "09:00:00",
+      "bpm": 78,
+      "status": "normal"
+    },
+    {
+      "timestamp": "02:00:00",
+      "bpm": 80,
+      "status": "normal"
+    },
+    {
+      "timestamp": "10:00:00",
+      "bpm": 82,
+      "status": "normal"
+    },
+    {
+      "timestamp": "03:00:00",
+      "bpm": 85,
+      "status": "normal"
+    },
+    {
+      "timestamp": "18:00:00",
+      "bpm": 88,
+      "status": "normal"
+    },
+    {
+      "timestamp": "04:00:00",
+      "bpm": 90,
+      "status": "normal"
+    },
+    {
+      "timestamp": "19:00:00",
+      "bpm": 92,
+      "status": "normal"
+    },
+    {
+      "timestamp": "11:00:00",
+      "bpm": 95,
+      "status": "normal"
+    },
+    {
+      "timestamp": "23:00:00",
+      "bpm": 97,
+      "status": "normal"
+    },
+    {
+      "timestamp": "13:00:00",
+      "bpm": 99,
+      "status": "normal"
+    },
+    {
+      "timestamp": "21:00:00",
+      "bpm": 100,
+      "status": "normal"
+    },
+    {
+      "timestamp": "14:00:00",
+      "bpm": 105,
+      "status": "takikardia"
+    },
+    {
+      "timestamp": "05:00:00",
+      "bpm": 110,
+      "status": "takikardia"
+    }
+  ]
+}
