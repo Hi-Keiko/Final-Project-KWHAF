@@ -54,11 +54,9 @@ int main() {
     }
     std::cout << "[CLIENT] Finished sending all data." << std::endl;
 
-    // --- TAMBAHKAN INI ---
     // Beri server waktu untuk menerima dan memproses semua data terakhir
     std::cout << "[CLIENT] Waiting for server to process data before disconnecting..." << std::endl;
     std::this_thread::sleep_for(std::chrono::seconds(2)); // Tunggu 2 detik
-    // --- AKHIR TAMBAHAN ---
 
     closesocket(s);
     WSACleanup();
